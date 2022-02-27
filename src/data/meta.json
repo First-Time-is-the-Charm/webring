@@ -2,12 +2,12 @@
     "title": "First Time Is The Charm",
     "description": "We are proud developers who constantly wonder what is wrong with our code",
     "image": "pepe.jpg",
-    "url": "https://first-time-is-the-charm.github.io/Workplace/",
+    "url": "https://first-time-is-the-charm.netlify.app/",
     "repo": "https://github.com/First-Time-is-the-Charm/Workplace",
     "admins": [
         {
-            "name": "Orestis Artinopoulos aka Voltmaister",
-            "url": "https://github.com/voltmaister/CV/settings/pages"
+            "name": "Orestis Artinopoulos",
+            "url": "https://github.com/voltmaister/"
         }
     ]
 }
