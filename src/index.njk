@@ -8,35 +8,12 @@ layout: base
     
     <h2>How to join</h2>
     <p>
-        To join the webring, <a href="{{ meta.repo }}/compare">open a pull request</a> 
-        and supply the name and URL of your site. If you publish a RSS feed, you can provide that as well.
-    </p>
-    <p>
-        If you don't have a Github account, you can also use this form to sign up. 
-        The webring admins will then look at your site and handle your request.
+       We don't accept any new members at the moment
     </p>
 
     {% include 'signupform.njk' %}
 
-    <h2>Add the banner</h2>
-    <p>
-        Once you've joined the ring, copy this code snippet into your site:
-    </p>
-
-    {% highlight 'html' %}{% include 'snippet.njk' %}{% endhighlight %}
-
-    <p>
-        It will render this banner that links to the other members:
-    </p>
-
     {% include 'snippet.njk' %}
-
-    <h2>Want to host your own webring?</h2>
-    <p>
-        If you want to start your own webring, fork 
-        <a href="https://github.com/maxboeck/webring">this project</a> on Github 
-        and follow the instructions in the README.
-    </p>
 
     {% include 'github.njk' %}
 </div>
